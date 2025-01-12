@@ -1,0 +1,35 @@
+main {
+background-color: rgb(108, 255, 10);
+}
+
+header{
+background-color: rgb(105, 184, 41);
+}
+
+footer {
+background-color: rgb(50, 107, 4);
+
+}
+
+h1{
+text-align: center;
+background-color: rgb(115, 255, 122);
+}
+
+nav{
+background-color: rgb(67, 194, 124);
+}
+
+html{
+background-color: rgb(90, 167, 17);
+}
+
+main img {
+border-radius: 10px;
+}
+
+nav a {
+border:5px solid rgb(247, 247, 247)
+margin:5px;
+pading:5px;
+}
