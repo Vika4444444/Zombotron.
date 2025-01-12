@@ -1,0 +1,34 @@
+<html>
+<head>
+<link rel="stylesheet href href="style.css">
+<head>
+    <title>Zombotron</title>
+    <body>
+        <header>
+            <h1>Zombotron</h1>
+            <nav>
+            <a href="">Головна</a>
+            <a href="">Зомбі</a>
+            <a href="">Зброя</a>
+            <a href="">Шоломи</a>
+            </nav>
+        </header>
+        <main>
+        <h1>Тема гри.
+        </h1>
+         <img src="https://learn.logikaschool.com/uploads/student/2161404/6771244da91eb.jpg">
+         
+        <p>Zombotron -- це гра про робота який рятує світ від зомбі віруса.</p>
+        <h1>Зброя</h1>
+        <img src="https://learn.logikaschool.com/uploads/student/2161404/6782c8c18b320.webp" width="250">
+        <img src="" width="250">
+        <p>Є два типи зброї дальня та ближня.</p>
+        <h2 id=""></h2>
+        <img src="" width="250">
+         <p></p>
+        </main>
+        <footer>
+            <p>Власник сайту:<i>Куц Іван</i> </p>
+        </footer>      
+    </body>
+    </html>
